@@ -1,7 +1,7 @@
 
-# Project Title
+# Privpolicy-analyzer
 
-Privpolicy-analyzer is a webscraping and text analysetool
+... is a webscraping and text analysetool
 
 
 ## Authors

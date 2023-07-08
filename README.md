@@ -39,3 +39,4 @@ Install and use privpolicy-analyzer
     
 ## Demo
 
+You can find a demo video in the folder "concept"
